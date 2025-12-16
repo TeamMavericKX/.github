@@ -27,55 +27,49 @@
 
 ---
 
-### 🛠️ The Arsenal
-
-<img align="left" width="100px" src="https://img.shields.io/badge/Hardware-Robotics-black?style=for-the-badge&logo=arduino" />
-<br/><br/>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,matlab,rust&theme=dark" />
-  </a>
-</p>
-
-<img align="left" width="100px" src="https://img.shields.io/badge/App-Web-blue?style=for-the-badge&logo=flutter" />
-<br/><br/>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,py,astro,tailwind,react,firebase&theme=dark" />
-  </a>
-</p>
-
-<img align="left" width="100px" src="https://img.shields.io/badge/Sys-SecOps-red?style=for-the-badge&logo=arch-linux" />
-<br/><br/>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,linux,bash,git,nginx,vim&theme=dark" />
-  </a>
-</p>
-
-<br/>
-
----
+<h3 align="center">🧪 The Laboratory (Tech Stack)</h3>
 
 <div align="center">
-  <h3>📊 Operational Metrics</h3>
+  
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,js,ts,rust,matlab,bash&perline=10&theme=dark" />
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=flutter,react,astro,tailwind,nodejs,html,css,firebase,mongo,mysql&perline=10&theme=dark" />
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=arch,linux,kali,ubuntu,docker,kubernetes,aws,azure,nginx,git&perline=10&theme=dark" />
+  <br/>
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=TeamMavericKX&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeamMavericKX&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vim,vscode,postman,idea,androidstudio,github,gitlab,cloudflare&perline=10&theme=dark" />
 
 </div>
 
 <br/>
 
+---
+
+### 🔭 Mission Log (Projects)
+
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **Project Kisan** | AI-powered assistant for farmers | `Flutter` `Firebase` `Google AI` | 🟢 Active |
+| **Canteen Sys** | Cross-platform management app | `Flutter` `Dart` | 🟡 Maintenance |
+| **Robo-Bin** | AI Robotic bin-picking system | `Python` `ROS` `CV` | 🔵 Research |
+| **Menu Challenge** | Dynamic Menu Web App | `Astro` `Tailwind` `Cloudflare` | 🚀 Deployed |
+
+<br/>
+
 <div align="center">
+  <h3>🤝 Join The Revolution</h3>
+  <a href="mailto:team.m4v3rick@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Us-MaverickX-F71E36?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   <br/>
   <i>"Control the hardware, Rule the software."</i>
 </div>

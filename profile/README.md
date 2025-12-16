@@ -27,36 +27,38 @@
 
 ---
 
-<h3 align="center">🧪 The Laboratory (Tech Stack)</h3>
+<h3 align="center">The Nuclear Arsenal (Tech Stack)</h3>
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,js,ts,rust,matlab,bash&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,go,rust,dart,js,ts,swift,kotlin,php,lua,haskell,assembly&perline=15&theme=dark" />
   <br/>
   
-  <img src="https://skillicons.dev/icons?i=flutter,react,astro,tailwind,nodejs,html,css,firebase,mongo,mysql&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,astro,tailwind,html,css,vue,svelte,nextjs,nodejs,django,flask,spring,bootstrap,sass&perline=15&theme=dark" />
   <br/>
   
-  <img src="https://skillicons.dev/icons?i=arch,linux,kali,ubuntu,docker,kubernetes,aws,azure,nginx,git&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase,mongo,mysql,postgres,redis,sqlite,tensorflow,pytorch,opencv,matlab,arduino,raspberrypi,graphql&perline=13&theme=dark" />
   <br/>
 
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vim,vscode,postman,idea,androidstudio,github,gitlab,cloudflare&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,kali,ubuntu,debian,docker,kubernetes,aws,azure,gcp,jenkins,terraform,ansible,nginx,cloudflare&perline=15&theme=dark" />
+  <br/>
+
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,vim,neovim,vscode,androidstudio,postman,wireshark,figma,blender,unity,unreal&perline=14&theme=dark" />
 
 </div>
 
-<br/>
-
 ---
 
-### 🔭 Mission Log (Projects)
+### 🔭 Mission Log (Classified Projects)
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Project Kisan** | AI-powered assistant for farmers | `Flutter` `Firebase` `Google AI` | 🟢 Active |
-| **Canteen Sys** | Cross-platform management app | `Flutter` `Dart` | 🟡 Maintenance |
-| **Robo-Bin** | AI Robotic bin-picking system | `Python` `ROS` `CV` | 🔵 Research |
-| **Menu Challenge** | Dynamic Menu Web App | `Astro` `Tailwind` `Cloudflare` | 🚀 Deployed |
-
+| **Project PARASITE** | 🛡️ Hyper-efficient firmware sentinel for **CNI** (Critical National Infrastructure) threat detection. | `Rust` `Go` `Embedded` | 🟢 **Active** |
+| **QR-BATS** | 🔐 Quantum-Resilient, Biometric-Attested Transaction Signing for banking. | `Quantum-Sec` `Biometrics` | 🔵 **Research** |
+| **BondFlow** | 📈 AI & Blockchain-based fractional ownership platform for corporate bonds (SeBIxGFF). | `AI/ML` `Blockchain` `Fintech` | 🟡 **Maintenance** |
+| **AgriGuru** | 🌾 AI-powered assistant for farmers (Formerly Project Kisan). | `Dart` `Flutter` `Firebase` | 🟠 **Stable** |
+| **Algo-December** | 🧠 Advanced algorithm implementations & optimization challenge (2025). | `Algorithms` `Optimization` | 🟢 **Active** |
+  
 <br/>
 
 <div align="center">
